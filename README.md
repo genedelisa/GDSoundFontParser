@@ -186,6 +186,7 @@ Please read the [LICENSE](LICENSE) for details.
 
 [blog-post-url]:http://www.rockhoppertech.com/blog/soundfont-parser/
 
+<!-- You need to manually go into the project settings and enable pages -->
 [github-pages]:https://genedelisa.github.io/GDSoundFontParser/
 
 
