@@ -9,7 +9,7 @@ on:
 jobs:
   test:
     name: Test
-    runs-on: iOS-latest
+    runs-on: macOS
 
     steps:
     - uses: actions/checkout@v2
@@ -19,3 +19,7 @@ jobs:
         
       env:
          destination: "platform=iOS Simulator,OS=14.5,name=iPad (8th generation)"
+
+xcodebuild ARCHS=i386 ONLY_ACTIVE_ARCH=NO 
+-configuration Debug -workspace MyProject.xcworkspace -scheme MyLib
+
