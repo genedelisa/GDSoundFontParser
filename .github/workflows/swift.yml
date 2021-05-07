@@ -1,0 +1,21 @@
+name: Swift
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  test:
+    name: Test
+    runs-on: iOS-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build and Test
+      run: |
+        xcodebuild clean test -project SystemSounds.xcodeproj -scheme SystemSounds -destination "platform=iOS Simulator,OS=14.5,name=iPad (8th generation)" CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO ONLY_ACTIVE_ARCH=NO
+        
+      env:
+         destination: "platform=iOS Simulator,OS=14.5,name=iPad (8th generation)"

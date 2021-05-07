@@ -5,11 +5,16 @@ import PackageDescription
 
 let package = Package(
     name: "GDSoundFontParser",
+    platforms: [
+        .iOS(.v14),
+        .macOS(.v11)
+    ],
+
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "GDSoundFontParser",
-            targets: ["GDSoundFontParser"]),
+            targets: ["GDSoundFontParser"])
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -20,9 +25,18 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "GDSoundFontParser",
-            dependencies: []),
+            dependencies: [],
+            exclude: ["README.md"]
+        ),
         .testTarget(
             name: "GDSoundFontParserTests",
-            dependencies: ["GDSoundFontParser"]),
-    ]
+            dependencies: ["GDSoundFontParser"],
+            resources: [
+                .process("FreeFont.sf2")
+            ]
+        )
+
+    ],
+    swiftLanguageVersions: [.v5]
+
 )
