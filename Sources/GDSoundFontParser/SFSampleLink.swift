@@ -49,7 +49,7 @@ import Foundation
 
 // The SFSampleLink is an enumeration type which describes both the type of sample (mono, stereo left, etc.) and the whether the sample is located in RAM or ROM memory:
 
-enum SFSampleLink: UInt16 {
+public enum SFSampleLink: UInt16 {
     case mono = 1
     case right = 2
     case left = 4

@@ -41,7 +41,7 @@
 
 import Foundation
 
-struct SFInst {
+public struct SFInst {
     var name: String // 20
     var bagIndex: UInt16
     init(name: String, bagIndex: UInt16) {

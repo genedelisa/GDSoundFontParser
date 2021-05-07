@@ -41,10 +41,11 @@
 
 import Foundation
 
-struct SFInstBag {
+public struct SFInstBag {
     var genIndex: UInt16
     var modIndex: UInt16
-    init(genIndex: UInt16, modIndex: UInt16) {
+    
+    public init(genIndex: UInt16, modIndex: UInt16) {
         self.genIndex = genIndex
         self.modIndex = modIndex
     }

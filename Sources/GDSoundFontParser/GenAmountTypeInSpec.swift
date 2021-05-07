@@ -46,12 +46,12 @@ import Foundation
 // Certain generators specify a range of MIDI key numbers of MIDI velocities, with a minimum and maximum value.
 // Other generators specify an unsigned WORD value. Most generators, however, specify a signed 16 bit SHORT value.
 
-struct RangesType {
+public struct RangesType {
     var byLo: UInt8
     var byHi: UInt8
 }
 
-struct GenAmountTypeInSpec {
+public struct GenAmountTypeInSpec {
     var ranges: RangesType
     var sfAmount: Int16 // short = signed
     var wAmount: UInt16

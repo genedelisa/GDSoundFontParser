@@ -41,7 +41,7 @@
 
 import Foundation
 
-struct SFSample {
+public struct SFSample {
     var name: String // 20
     var start: UInt32
     var end: UInt32
@@ -53,7 +53,7 @@ struct SFSample {
     var sampleLink: UInt16
     var sampleType: SFSampleLink
     
-    init(name: String,
+    public init(name: String,
          start: UInt32,
          end: UInt32,
          startloop: UInt32,

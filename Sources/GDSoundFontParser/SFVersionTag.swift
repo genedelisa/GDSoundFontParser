@@ -41,15 +41,16 @@
 
 import Foundation
 
-struct SFVersionTag {
+public struct SFVersionTag {
     var wMajor: UInt16
     var wMinor: UInt16
     
-    init() {
-        wMajor = 0
-        wMinor = 0
-    }
-    init(major: UInt16, minor: UInt16) {
+//    public init() {
+//        wMajor = 0
+//        wMinor = 0
+//    }
+    
+    public init(major: UInt16 = 0, minor: UInt16 = 0) {
         wMajor = major
         wMinor = minor
     }

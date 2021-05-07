@@ -41,10 +41,11 @@
 
 import Foundation
 
-struct SFGenList {
+public struct SFGenList {
     var genOper: UInt16
     var genAmount: GenAmountType
-    init(genOper: UInt16, genAmount: GenAmountType) {
+    
+    public init(genOper: UInt16, genAmount: GenAmountType) {
         self.genOper = genOper
         self.genAmount = genAmount
     }

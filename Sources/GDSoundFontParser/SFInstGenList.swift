@@ -41,12 +41,13 @@
 
 import Foundation
 
-typealias GenAmountType = UInt16
+public typealias GenAmountType = UInt16
 
-struct SFInstGenList {
+public struct SFInstGenList {
     var genOper: UInt16
     var genAmount: GenAmountType
-    init(genOper: UInt16, genAmount: GenAmountType) {
+    
+    public init(genOper: UInt16, genAmount: GenAmountType) {
         self.genOper = genOper
         self.genAmount = genAmount
     }

@@ -41,7 +41,7 @@
 
 import Foundation
 
-struct SoundFontGenerator {
+public struct SoundFontGenerator {
     
     let startAddrsOffset = 0
     let endAddrsOffset = 1

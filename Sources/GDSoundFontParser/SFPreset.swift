@@ -45,6 +45,7 @@ public struct SFPreset {
     public var name: String = "" // 20
     public var preset: UInt16 = 0
     public var bank: UInt16 = 0
+    
     var presetBagIndex: UInt16 = 0
     var library: UInt32 = 0
     var genre: UInt32 = 0

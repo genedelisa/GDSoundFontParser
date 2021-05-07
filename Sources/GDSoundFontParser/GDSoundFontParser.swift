@@ -46,6 +46,11 @@ let logger = Logger(subsystem: Bundle.main.bundleIdentifier!, category: "GDSound
 
 // swiftlint:disable type_body_length
 // swiftlint:disable file_length
+
+
+/// This class will parse SoundFont 2 files.
+/// Right now, it can list the presets. That's all I wanted.
+/// If you want more, go ahead and fill it in.
 public class GDSoundFontParser: NSObject {
     var data: Data?
     

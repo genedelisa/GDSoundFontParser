@@ -41,11 +41,13 @@
 
 import Foundation
 
-struct SFPresetBag {
-    init(gen: UInt16, mod: UInt16) {
+public struct SFPresetBag {
+
+    var genIndex: UInt16
+    var modIndex: UInt16
+    
+    public init(gen: UInt16, mod: UInt16) {
         genIndex = gen
         modIndex = mod
     }
-    var genIndex: UInt16
-    var modIndex: UInt16
 }

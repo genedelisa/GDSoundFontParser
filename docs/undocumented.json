@@ -1,0 +1,1111 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 11,
+      "symbol": "ByteArray",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 16,
+      "symbol": "ByteArray.init(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 20,
+      "symbol": "ByteArray.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 24,
+      "symbol": "ByteArray.arrayIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 33,
+      "symbol": "ByteArray.bytesLeft",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 37,
+      "symbol": "ByteArray.getUInt8()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 43,
+      "symbol": "ByteArray.getInt16()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 47,
+      "symbol": "ByteArray.getUInt16()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 63,
+      "symbol": "ByteArray.getUInt24()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 75,
+      "symbol": "ByteArray.getInt32()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 79,
+      "symbol": "ByteArray.getUInt32()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 92,
+      "symbol": "ByteArray.getBEUInt32()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 105,
+      "symbol": "ByteArray.getInt64()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 109,
+      "symbol": "ByteArray.getUInt64()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 162,
+      "symbol": "ByteArray.readToNextZero()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 192,
+      "symbol": "ByteArray.get4ByteString()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/ByteArray.swift",
+      "line": 196,
+      "symbol": "ByteArray.readBytes(length:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/GDSoundFontParser.swift",
+      "line": 69,
+      "symbol": "GDSoundFontParser.parse(d:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/GDSoundFontParser.swift",
+      "line": 148,
+      "symbol": "GDSoundFontParser.parse(filename:ext:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/GDSoundFontParser.swift",
+      "line": 170,
+      "symbol": "GDSoundFontParser.parse(fileURL:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/GenAmountTypeInSpec.swift",
+      "line": 49,
+      "symbol": "RangesType",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/GenAmountTypeInSpec.swift",
+      "line": 54,
+      "symbol": "GenAmountTypeInSpec",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 44,
+      "symbol": "InfoChunk",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 45,
+      "symbol": "InfoChunk.INFO_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 46,
+      "symbol": "InfoChunk.RIFF_VERSION_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 47,
+      "symbol": "InfoChunk.TARGET_ENGINE_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 48,
+      "symbol": "InfoChunk.BANK_NAME_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 49,
+      "symbol": "InfoChunk.ROM_NAME_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 50,
+      "symbol": "InfoChunk.ROM_VERSION_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 51,
+      "symbol": "InfoChunk.CREATION_DATE_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 52,
+      "symbol": "InfoChunk.ENGINEERS_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 53,
+      "symbol": "InfoChunk.PRODUCT_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 54,
+      "symbol": "InfoChunk.COPYRIGHT_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 55,
+      "symbol": "InfoChunk.COMMENTS_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/InfoChunk.swift",
+      "line": 56,
+      "symbol": "InfoChunk.TOOLS_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 44,
+      "symbol": "PatchesChunk",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 45,
+      "symbol": "PatchesChunk.SAMPLES_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 46,
+      "symbol": "PatchesChunk.HEADER_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 47,
+      "symbol": "PatchesChunk.PBAG_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 48,
+      "symbol": "PatchesChunk.PMOD_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 49,
+      "symbol": "PatchesChunk.IMOD_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 50,
+      "symbol": "PatchesChunk.PGEN_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 51,
+      "symbol": "PatchesChunk.IGEN_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 52,
+      "symbol": "PatchesChunk.INST_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 53,
+      "symbol": "PatchesChunk.IBAG_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/PatchesChunk.swift",
+      "line": 54,
+      "symbol": "PatchesChunk.SHDR_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/RiffChunk.swift",
+      "line": 51,
+      "symbol": "RIFFChunk",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFGenList.swift",
+      "line": 44,
+      "symbol": "SFGenList",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFGenList.swift",
+      "line": 48,
+      "symbol": "SFGenList.init(genOper:genAmount:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFInst.swift",
+      "line": 44,
+      "symbol": "SFInst",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFInstBag.swift",
+      "line": 44,
+      "symbol": "SFInstBag",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFInstBag.swift",
+      "line": 48,
+      "symbol": "SFInstBag.init(genIndex:modIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFInstGenList.swift",
+      "line": 44,
+      "symbol": "GenAmountType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFInstGenList.swift",
+      "line": 46,
+      "symbol": "SFInstGenList",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFInstGenList.swift",
+      "line": 50,
+      "symbol": "SFInstGenList.init(genOper:genAmount:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFInstModList.swift",
+      "line": 44,
+      "symbol": "SFInstModList",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFInstModList.swift",
+      "line": 51,
+      "symbol": "SFInstModList.init(srcOper:destOper:amount:amtSrcOper:transOper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFModList.swift",
+      "line": 44,
+      "symbol": "SFModList",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFModList.swift",
+      "line": 51,
+      "symbol": "SFModList.init(srcOper:destOper:amount:amtSrcOper:transOper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 19,
+      "symbol": "SFOperator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 21,
+      "symbol": "SFOperator.START_ADDRS_OFFSET",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 22,
+      "symbol": "SFOperator.END_ADDRS_OFFSET",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 23,
+      "symbol": "SFOperator.START_LOOP_ADDRS_OFFSET",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 24,
+      "symbol": "SFOperator.END_LOOP_ADDRS_OFFSET",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 25,
+      "symbol": "SFOperator.START_ADDRS_COARSE_OFFSET",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 26,
+      "symbol": "SFOperator.MOD_LFO_TO_PITCH",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 27,
+      "symbol": "SFOperator.VIB_LFO_TO_PITCH",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 28,
+      "symbol": "SFOperator.MOD_ENV_TO_PITCH",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 29,
+      "symbol": "SFOperator.INITIAL_FILTER_FC",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 30,
+      "symbol": "SFOperator.INITIAL_FILTER_Q",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 31,
+      "symbol": "SFOperator.MOD_LFO_TO_FILTER_FC",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 32,
+      "symbol": "SFOperator.MOD_ENV_TO_FILTER_FC",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 33,
+      "symbol": "SFOperator.END_ADDRS_COARSE_OFFSET",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 34,
+      "symbol": "SFOperator.MOD_LFO_TO_RecordLUME",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 35,
+      "symbol": "SFOperator.UNUSED_1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 36,
+      "symbol": "SFOperator.CHORUS_EFFECTS_SEND",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 37,
+      "symbol": "SFOperator.REVERB_EFFECTS_SEND",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 38,
+      "symbol": "SFOperator.PAN",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 39,
+      "symbol": "SFOperator.UNUSED_2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 40,
+      "symbol": "SFOperator.UNUSED_3",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 41,
+      "symbol": "SFOperator.UNUSED_4",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 42,
+      "symbol": "SFOperator.DELAY_MOD_LFO",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 43,
+      "symbol": "SFOperator.FREQ_MOD_LFO",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 44,
+      "symbol": "SFOperator.DELAY_VIB_LFO",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 45,
+      "symbol": "SFOperator.FREQ_VIB_LFO",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 46,
+      "symbol": "SFOperator.DELAY_MOD_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 47,
+      "symbol": "SFOperator.ATTACK_MOD_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 48,
+      "symbol": "SFOperator.HOLD_MOD_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 49,
+      "symbol": "SFOperator.DECAY_MOD_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 50,
+      "symbol": "SFOperator.SUSTAIN_MOD_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 51,
+      "symbol": "SFOperator.RELEASE_MOD_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 52,
+      "symbol": "SFOperator.KEYNUM_TO_MOD_ENV_HOLD",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 53,
+      "symbol": "SFOperator.KEYNUM_TO_MOD_ENV_DECAY",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 54,
+      "symbol": "SFOperator.DELAY_RecordL_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 55,
+      "symbol": "SFOperator.ATTACK_RecordL_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 56,
+      "symbol": "SFOperator.HOLD_RecordL_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 57,
+      "symbol": "SFOperator.DECAY_RecordL_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 58,
+      "symbol": "SFOperator.SUSTAIN_RecordL_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 59,
+      "symbol": "SFOperator.RELEASE_RecordL_ENV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 60,
+      "symbol": "SFOperator.KEYNUM_TO_RecordL_ENV_HOLD",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 61,
+      "symbol": "SFOperator.KEYNUM_TO_RecordL_ENV_DECAY",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 62,
+      "symbol": "SFOperator.INSTRUMENT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 63,
+      "symbol": "SFOperator.RESERVED_1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 64,
+      "symbol": "SFOperator.KEY_RANGE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 65,
+      "symbol": "SFOperator.VEL_RANGE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 66,
+      "symbol": "SFOperator.START_LOOP_ADDRS_COARSE_OFFSET",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 67,
+      "symbol": "SFOperator.KEY_NUM",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 68,
+      "symbol": "SFOperator.VELOCITY",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 69,
+      "symbol": "SFOperator.INITIAL_ATTENUATION",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 70,
+      "symbol": "SFOperator.RESERVED_2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 71,
+      "symbol": "SFOperator.END_LOOP_ADDRS_COARSE_OFFSET",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 72,
+      "symbol": "SFOperator.COARSE_TUNE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 73,
+      "symbol": "SFOperator.FINE_TUNE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 74,
+      "symbol": "SFOperator.SAMPLE_ID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 75,
+      "symbol": "SFOperator.SAMPLE_MODES",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 76,
+      "symbol": "SFOperator.RESERVED3",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 77,
+      "symbol": "SFOperator.SCALE_TUNING",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 78,
+      "symbol": "SFOperator.EXCLUSIVE_CLASS",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 79,
+      "symbol": "SFOperator.OVERRIDING_ROOT_KEY",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 80,
+      "symbol": "SFOperator.UNUSED_5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 81,
+      "symbol": "SFOperator.END_OPER",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 83,
+      "symbol": "SFOperator.NAMES",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 99,
+      "symbol": "SFOperator.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 100,
+      "symbol": "SFOperator.amount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 101,
+      "symbol": "SFOperator.defaultValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFOperator.swift",
+      "line": 102,
+      "symbol": "SFOperator.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFPreset.swift",
+      "line": 44,
+      "symbol": "SFPreset",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFPreset.swift",
+      "line": 45,
+      "symbol": "SFPreset.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFPreset.swift",
+      "line": 46,
+      "symbol": "SFPreset.preset",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFPreset.swift",
+      "line": 47,
+      "symbol": "SFPreset.bank",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFPreset.swift",
+      "line": 54,
+      "symbol": "SFPreset.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFPresetBag.swift",
+      "line": 44,
+      "symbol": "SFPresetBag",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFPresetBag.swift",
+      "line": 49,
+      "symbol": "SFPresetBag.init(gen:mod:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSample.swift",
+      "line": 44,
+      "symbol": "SFSample",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSample.swift",
+      "line": 56,
+      "symbol": "SFSample.init(name:start:end:startloop:endloop:sampleRate:originalKey:correction:sampleLink:sampleType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSampleLink.swift",
+      "line": 52,
+      "symbol": "SFSampleLink",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSampleLink.swift",
+      "line": 53,
+      "symbol": "SFSampleLink.mono",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSampleLink.swift",
+      "line": 54,
+      "symbol": "SFSampleLink.right",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSampleLink.swift",
+      "line": 55,
+      "symbol": "SFSampleLink.left",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSampleLink.swift",
+      "line": 56,
+      "symbol": "SFSampleLink.linked",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSampleLink.swift",
+      "line": 57,
+      "symbol": "SFSampleLink.romMono",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSampleLink.swift",
+      "line": 58,
+      "symbol": "SFSampleLink.romRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSampleLink.swift",
+      "line": 59,
+      "symbol": "SFSampleLink.romLeft",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFSampleLink.swift",
+      "line": 60,
+      "symbol": "SFSampleLink.romLinked",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFVersionTag.swift",
+      "line": 44,
+      "symbol": "SFVersionTag",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SFVersionTag.swift",
+      "line": 53,
+      "symbol": "SFVersionTag.init(major:minor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SamplesChunk.swift",
+      "line": 44,
+      "symbol": "SamplesChunk",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SamplesChunk.swift",
+      "line": 45,
+      "symbol": "SamplesChunk.SAMPLES_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SamplesChunk.swift",
+      "line": 46,
+      "symbol": "SamplesChunk.SAMPLE_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SamplesChunk.swift",
+      "line": 47,
+      "symbol": "SamplesChunk.SAMPLE24_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SoundFont.swift",
+      "line": 44,
+      "symbol": "SoundFont",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SoundFont.swift",
+      "line": 51,
+      "symbol": "SoundFont.init(infoChunk:patchesChunk:samplesChunk:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SoundFont.swift",
+      "line": 79,
+      "symbol": "SoundFont.getPresets()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SoundFontGenerator.swift",
+      "line": 44,
+      "symbol": "SoundFontGenerator",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SoundFontParserError.swift",
+      "line": 45,
+      "symbol": "SoundFontParserError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SoundFontParserError.swift",
+      "line": 46,
+      "symbol": "SoundFontParserError.invalidSF2File(reason:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SoundFontParserError.swift",
+      "line": 49,
+      "symbol": "SoundFontParserError",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser/Sources/GDSoundFontParser/SoundFontParserError.swift",
+      "line": 81,
+      "symbol": "SoundFontParserError",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/genedelisa/Development/gene/Apple/Packages/GDSoundFontParser"
+}

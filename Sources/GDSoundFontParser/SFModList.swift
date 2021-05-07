@@ -41,14 +41,14 @@
 
 import Foundation
 
-struct SFModList: CustomStringConvertible {
+public struct SFModList: CustomStringConvertible {
     var srcOper: UInt16
     var destOper: UInt16
     var amount: UInt16
     var amtSrcOper: UInt16
     var transOper: UInt16
     
-    init(srcOper: UInt16,
+    public init(srcOper: UInt16,
          destOper: UInt16,
          amount: UInt16,
          amtSrcOper: UInt16,
@@ -60,8 +60,7 @@ struct SFModList: CustomStringConvertible {
         self.transOper = transOper
     }
     
-    var description: String {
-        
+    public var description: String {
         let n = String(describing: type(of: self))
         var s = "\(n) "
         s += "srcOper \(srcOper) "
@@ -70,6 +69,5 @@ struct SFModList: CustomStringConvertible {
         s += "amtSrcOper \(amtSrcOper) "
         s += "transOper \(transOper) "
         return s
-        
     }
 }
