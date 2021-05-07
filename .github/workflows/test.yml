@@ -9,7 +9,8 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v1
     - name: Build
-      run: swift builld --build-tests -v
+      run: swift build -c debug --build-tests -v
     - name: Test
-      run: swift test -v -c release
+      run: swift test -v -c debug
+
 
